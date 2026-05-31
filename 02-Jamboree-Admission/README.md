@@ -1,10 +1,10 @@
-# [Project Name] — Coming Soon
+# Jamboree — Graduate Admission Predictor — Coming Soon
 
 ## Status
 🚧 Notebook under preparation — will be uploaded shortly.
 
 ## Quick Summary
-[One line about what the project does]
+Predicts probability of Ivy League admission based on GRE, TOEFL, GPA, and research experience using Linear Regression with full OLS assumptions testing.
 
 ## Tools
 Python | Pandas | Scikit-learn | Matplotlib
