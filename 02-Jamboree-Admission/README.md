@@ -1,4 +1,4 @@
-# Jamboree — Graduate Admission Predictor — Coming Soon
+# Jamboree — Graduate Admission Predictor
 
 ## Status
 🚧 Notebook under preparation — will be uploaded shortly.
