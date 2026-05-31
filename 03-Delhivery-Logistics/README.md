@@ -1,4 +1,4 @@
-# Delhivery - Feature Engineering — Coming Soon
+# Delhivery - Feature Engineering
 
 ## Status
 🚧 Notebook under preparation — will be uploaded shortly.
